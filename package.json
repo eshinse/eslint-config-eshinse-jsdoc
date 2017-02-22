@@ -30,7 +30,7 @@
     "jsdoc"
   ],
   "peerDependencies": {
-    "eslint": "^3.0.0"
+    "eslint": "^3.16.1"
   },
   "devDependencies": {
     "conventional-github-releaser": "^1.1.3",
